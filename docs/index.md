@@ -6,7 +6,7 @@ NewsFoundry est un outil de revue de presse automatique par IA. Cette documentat
 
 - **Frontend :** [https://news-foundry-lime.vercel.app/](https://news-foundry-lime.vercel.app/)
 - **Backend :** [https://p14-newsfoundry-production.up.railway.app](https://p14-newsfoundry-production.up.railway.app)
-- **Dépôt GitHub :** [https://github.com/WillIsback/P14-NewsFoundry](https://github.com/WillIsback/P14-NewsFoundry)
+- **Dépôt GitHub :** [https://github.com/WillIsback/OC-DIA-P14-NewsFoundry](https://github.com/WillIsback/OC-DIA-P14-NewsFoundry)
 
 ## Table des matières
 

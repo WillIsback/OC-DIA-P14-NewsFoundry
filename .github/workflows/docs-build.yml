@@ -35,8 +35,10 @@ jobs:
         with:
           node-version: '20'
 
+      # pnpm 11 refuse les scripts de build non approuvés (ERR_PNPM_IGNORED_BUILDS) :
+      # on reste sur pnpm 10, compatible avec le lockfile v9 du site.
       - name: Install pnpm
-        run: npm install -g pnpm
+        run: npm install -g pnpm@10
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile

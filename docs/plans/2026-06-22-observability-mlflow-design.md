@@ -2,7 +2,7 @@
 
 **Date :** 2026-06-22
 **Branche :** `feat/observability-mlflow-latency-tracking`
-**Issue :** [#182](https://github.com/WillIsback/P14-NewsFoundry/issues/182)
+**Issue :** [#182](https://github.com/WillIsback/OC-DIA-P14-NewsFoundry/issues/182)
 
 ---
 
