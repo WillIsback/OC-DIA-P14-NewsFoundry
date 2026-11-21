@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 export default defineConfig({
   site: 'https://willisback.github.io',
-  base: '/P14-NewsFoundry',
+  base: '/OC-DIA-P14-NewsFoundry',
   integrations: [
     starlight({
       title: 'NewsFoundry Docs',
@@ -14,7 +14,7 @@ export default defineConfig({
         root: { label: 'Français', lang: 'fr' },
       },
       social: [
-        { icon: 'github', label: 'GitHub', href: 'https://github.com/WillIsback/P14-NewsFoundry' },
+        { icon: 'github', label: 'GitHub', href: 'https://github.com/WillIsback/OC-DIA-P14-NewsFoundry' },
       ],
       sidebar: [
         {
